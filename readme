@@ -1,0 +1,10 @@
+pip install pillow
+pip install openpyxl
+
+I chose to display the details of a movie and its poster
+so, went with a background of 2000x2000 pixels
+poster of 1000x1500
+
+Collecting details of movies in an excel.
+
+Can do the same for books and other stuffs.
